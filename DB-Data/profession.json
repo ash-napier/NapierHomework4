@@ -1,0 +1,22 @@
+[
+{"Profession": "Herbalist", "Description": "Crafts potions, poultices, and other strange mixtures using natural and magical ingredients", "Toolkit": "Herbalism Kit"},
+{"Profession": "Librarian", "Description": "Works to preserve and share knowledge through written works", "Toolkit": "Ink Pen and Parchment"},
+{"Profession": "Cartographer", "Description": "Explores and documents the world by crafting maps", "Toolkit": "Cartographer's Tools"},
+{"Profession": "Cook", "Description": "Works to create culinary masterpieces and comforts", "Toolkit": "Cook's Utensils"},
+{"Profession": "Leatherworker", "Description": "Crafts clothing, armor, bags, and other creations with creature hides and skins", "Toolkit": "Leatherworker's Tools"},
+{"Profession": "Sailor", "Description": "Always at sea, the sailor knows his way around a ship", "Toolkit": "Navigator's Tools"},
+{"Profession": "Smith", "Description": "Crafts weapons, armor, horse shoes, and other creations with metal ores", "Toolkit": "Smith's Tools"},
+{"Profession": "Woodcarver", "Description": "Crafts weapons, furniture, sculptures and other creations with timber", "Toolkit": "Woodcarver's Tools"},
+{"Profession": "Brewer", "Description": "Crafts ale from malt and hops by infusion, boiling, and fermentation", "Toolkit": "Brewer's Supplies"},
+{"Profession": "Carpenter", "Description": "Crafts furniture or buildings using timber and hardware", "Toolkit": "Carpenter's Tools"},
+{"Profession": "Cobbler", "Description": "Crafts boots and other shoes using cloth, leather, or other materials", "Toolkit": "Cobbler's Tools"},
+{"Profession": "Glassblower", "Description": "Crafts bottles, baubles, and other glass objects", "Toolkit": "Glassblower's Tools"},
+{"Profession": "Jeweler", "Description": "Crafts jewelery using a variety of delicate materials", "Toolkit": "Jeweler's Tools"},
+{"Profession": "Mason", "Description": "Works stone into structures, sculptures, or furniture", "Toolkit": "Mason's Tools"},
+{"Profession": "Painter", "Description": "Creates works of art through the creative use of pigmented paints", "Toolkit": "Painter's Supplies"},
+{"Profession": "Potter", "Description": "Creates pots, vases, plates, bowls, and anything they can dream with clay", "Toolkit": "Potter's Tools"},
+{"Profession": "Weaver", "Description": "Creates clothing, rugs, and tapestries using wool spun to yarn", "Toolkit": "Weaver's Tools"},
+{"Profession": "Politician", "Description": "A government official for a population that often speaks for their people", "Toolkit": "Badge of Office, Signet Ring"},
+{"Profession": "Mercenary", "Description": "An agent that can be hired for dangerous adventures or tasks", "Toolkit": "weapon of choice"},
+{"Profession": "Unemployed", "Description": "This person has no career yet.", "Toolkit": "None"}
+]

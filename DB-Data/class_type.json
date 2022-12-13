@@ -1,0 +1,16 @@
+[
+{"Class": "Artificer", "Description": "A master of invention, uses ingenuity and magic to unlock extraordinary capabilities in objects", "PrimaryStat": "Intelligence"},
+{"Class": "Barbarian", "Description": "A fierce warrior of primitive background who can enter a battle rage", "PrimaryStat": "Strength"},
+{"Class": "Bard", "Description": "An inspiring magician whose power echoes the music of creation", "PrimaryStat": "Charisma"},
+{"Class": "Cleric", "Description": "A priestly champion who wields divine magic in service of a higher power", "PrimaryStat": "Wisdom"},
+{"Class": "Druid", "Description": "A priest of the Old Faith, wielding the powers of nature and adopting animal forms", "PrimaryStat": "Wisdom"},
+{"Class": "Fighter", "Description": "A master of martial combat and skilled with a variety of weapons and armor", "PrimaryStat": "Strength or Dexterity"},
+{"Class": "Monk", "Description": "A master of martial arts, harnessing the power of the body in pursuit of physical and spiritual perfection", "PrimaryStat": "Dexterity and Wisdom"},
+{"Class": "Paladin", "Description": "A holy warrior bound to a sacred oath", "PrimaryStat": "Strength and Charisma"},
+{"Class": "Ranger", "Description": "A warrior who combats threats on the edges of civilization.", "PrimaryStat": "Dexterity and Wisdom"},
+{"Class": "Rogue", "Description": "A scoundrel who uses stealth and trickery to overcome obstacles and enemies", "PrimaryStat": "Dexterity"},
+{"Class": "Sorcerer", "Description": "A spellcaster who draws on inherent magic from a gift or bloodline", "PrimaryStat": "Charisma"},
+{"Class": "Warlock", "Description": "A wielder of magic that is derived from a bargain with an extraplanar entity", "PrimaryStat": "Strength"},
+{"Class": "Wizard", "Description": "A scholarly magic-user capable of manipulating the structures of reality", "PrimaryStat": "Strength"},
+{"Class": "None", "Description": "Having no combat or magical abilities, this person has no specific class", "PrimaryStat": "Strength"}
+]
